@@ -19,7 +19,7 @@
 
 ## 주요 기능
 <p>
-  <img src="https://github.com/user-attachments/assets/db937b89-0cb0-49b5-8f19-b74ecf4f70e2" width="300" alt="Image">
+  <img src="https://github.com/user-attachments/assets/db937b89-0cb0-49b5-8f19-b74ecf4f70e2" width="800" alt="Image">
 </p>
 
 
