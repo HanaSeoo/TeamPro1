@@ -50,10 +50,10 @@ ABCShopping Mall
 │   ├── login        # API 로그인(구글 등)
 │   ├── pay          # 청소 관리자 기능
 │   ├── delivery     # 일반적인 인터셉터 기능
-│   ├── question     # 이메일 기능
-│   ├── common       # 회원 관리
-│   ├── resource     # 예약 시스템
-│   └── fxml         # 리뷰 기능
+│   ├── question     # Q & A 기능
+│   ├── common       
+│   ├── resource     
+│   └── fxml         # Scene Builder
 
 ```
 <br><br>
