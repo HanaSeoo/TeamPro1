@@ -49,7 +49,7 @@ ABCShopping Mall
 │   ├── member       # 회원관리 기능
 │   ├── login        # API 로그인(구글 등)
 │   ├── pay          # 청소 관리자 기능
-│   ├── delivery     # 일반적인 인터셉터 기능
+│   ├── delivery     # 배송번호로 배송 조회
 │   ├── question     # Q & A 기능
 │   ├── common       
 │   ├── resource     
