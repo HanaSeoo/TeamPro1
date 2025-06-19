@@ -66,7 +66,7 @@ ABCShopping Mall
 ## 🤝 기여자
 ### 종로 itkgbank 핀테그 풀스텍 수강자 
 - 김범룡 
-- 서하나 : [포트폴리오]([(https://hana-dev-portfolio.netlify.app/)])
+- 서하나 : [포트폴리오]([https://hana-dev-portfolio.netlify.app/])
 - 정성효  
 
 
