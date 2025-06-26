@@ -8,6 +8,9 @@
 ## 소개
 저희 프로젝트는 쇼핑몰을 제작하여 상품을 사용자가 상품을 장바구니에 담고 쿠폰을 사용하여 결제하고 배송을 조회하는 시스템을 구현하였습니다.
 <br>
+## 제작기간
+2025.03.3 ~ 2025.03.13
+<br>
 ### 영상 소개
 [![Watch the video](https://img.youtube.com/vi/AosiUaQ-lYo/0.jpg)](https://www.youtube.com/watch?v=AosiUaQ-lYo)
 
